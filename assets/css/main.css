@@ -105,7 +105,7 @@ input, select, textarea {
 		line-height: 1.75em;
 	}
 
-	a, h3 {
+	a {
 		-moz-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-webkit-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
@@ -115,12 +115,7 @@ input, select, textarea {
 		text-decoration: none;
 	}
 
-		h3 {
-  		display: inline-block;
-			border-bottom: none;
-		}
-
-		a:hover, h3:hover {
+		a:hover {
 			border-bottom-color: transparent;
 			color: #49bf9d !important;
 			text-decoration: none;
@@ -2694,7 +2689,7 @@ input, select, textarea {
 
 		#main > section {
 			border-top: solid 2px #efefef;
-			margin: 4em 0 0 0;
+			margin: 8em 0 0 0;
 			padding: 4em 0 0 0;
 		}
 
