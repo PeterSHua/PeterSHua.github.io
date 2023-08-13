@@ -616,8 +616,8 @@ $size-header-pad: 4em;
 			&:after {
 				@include vendor('transition', 'opacity #{_duration(transition)} ease-in-out');
 				border-radius: _size(border-radius);
-				border: solid 3px rgba(255,255,255,0.5);
-				color: #fff;
+				border: solid 3px rgba(0,0,0,1);
+				color: #000000;
 				content: 'View';
 				display: inline-block;
 				font-size: 0.8em;
