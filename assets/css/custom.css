@@ -1,0 +1,149 @@
+body {
+  color: black;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+h2 {
+  color: black;
+  font-size: 2em;
+  font-weight: bold;
+}
+
+.inner {
+  text-align: center;
+}
+
+.image.avatar img {
+  border: 1px solid #e5e7eb;
+}
+
+.work-item h3 {
+  font-size: 1.3em;
+  color: black;
+}
+
+.shadow {
+  filter: drop-shadow(5px 5px 5px #5d5b5bdc);
+}
+
+.space-evenly {
+  justify-content: space-evenly;
+}
+
+a.button {
+  border: 3px solid black;
+  color: black !important;
+}
+
+a.case-study-btn:hover {
+  background-color: #acacad;
+}
+
+.tinkerContainer {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.tinkerContainer p {
+  margin: 1em 0 2em 0;
+}
+
+.tinkerArchitectureContainer {
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.imageAnchor {
+  border: none;
+}
+
+@media screen and (min-width: 981px) {
+  .tinkerContainer,
+  .tinkerArchitectureContainer {
+    flex-direction: row;
+  }
+
+  .tinkerContainer p {
+    display: block;
+    width: 45%;
+  }
+}
+
+#main {
+  padding: 3em 4em;
+}
+
+.img-link:hover {
+  cursor: pointer;
+}
+
+#tinkerLogo {
+  width: 25%;
+  min-width: 150px;
+  height: auto;
+}
+
+#cli {
+  border-radius: 10px;
+  box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.8);
+  width: 50%;
+  min-width: 150px;
+  height: auto;
+}
+
+#two img {
+  filter: drop-shadow(5px 5px 5px #5d5b5bdc);
+}
+
+#two h3 {
+  padding-bottom: 0.5em;
+}
+
+#header .image.avatar {
+  margin: 0;
+}
+
+#header {
+  background-color: #e6e7e7;
+  padding: 3em 2em;
+}
+
+#footer {
+  background-color: #e6e7e7;
+}
+
+a {
+  color: #1f3264;
+  font-weight: bold;
+}
+
+#header:hover {
+  color: #1f3264;
+}
+
+#header p {
+  color: black;
+  margin: 0 0 0.5em;
+  text-align: left;
+}
+
+#header h1 {
+  color: black;
+  font-size: 2em;
+  padding: 0 0 1em;
+}
+
+#header .image.avatar {
+  width: 9.5;
+}
+
+#footer .icons a {
+  color: black;
+}
