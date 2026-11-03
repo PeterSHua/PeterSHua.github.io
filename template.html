@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Peter Hua</title>
+    <meta
+      name="description"
+      content="Peter Hua, a software developer based in Vancouver."
+    />
+    <link rel="apple-touch-icon" sizes="180x180" href="assets/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16x16.png" />
+    <link rel="manifest" href="assets/site.webmanifest" />
+    <style>
+      body {
+        max-width: 65ch;
+        margin: 0 auto;
+        padding: 1rem;
+        line-height: 1.6;
+        overflow-wrap: break-word;
+      }
+      header {
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+      }
+      header h1 {
+        margin: 0;
+      }
+      .avatar {
+        width: 6rem;
+        height: 6rem;
+        object-fit: cover;
+        border-radius: 50%;
+      }
+      p,
+      li {
+        text-wrap: pretty;
+      }
+      h1,
+      h2 {
+        text-wrap: balance;
+      }
+      li:has(> input[type="checkbox"]) {
+        list-style: none;
+        margin-left: -1.25rem;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <header>
+        <img class="avatar" src="images/avatar.jfif" alt="Peter Hua" />
+        <h1>Peter Hua</h1>
+      </header>
+
+{{content}}
+    </main>
+  </body>
+</html>
