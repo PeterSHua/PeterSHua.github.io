@@ -1,0 +1,8 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "/^mv /tmp/index\\.html index\\.html; grep -c \"assets/css\\\\\\|assets/js\" index\\.html; git status --short \\| grep -v '\\^ D'$/": {
+            "approve": true,
+            "matchCommandLine": true
+        }
+    }
+}
