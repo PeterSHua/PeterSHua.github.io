@@ -1,21 +1,24 @@
 Hi, my name is Peter Hua and I'm a software developer based in Vancouver, Canada. This is my portfolio/thoughts/digital imprint on the web!
 
-My experience is in backend systems, databases, and distributed systems. Currently I work on an e-commerce SaaS product, where my main tools are JS/Node, AWS, MySQL. I have worked with these at one time (definitely rusty currently): Ruby, Golang, C, VB.NET, React, jQuery.
+My experience is in backend systems, databases, and distributed systems. Currently I work on an e-commerce SaaS, where my main tools are JS/TS/Node, AWS, MySQL. I have worked with these at one time (definitely rusty currently): Ruby, Golang, C, VB.NET, React, jQuery.
 
-I'm a big believer in deep learning and understanding what happens under the hood. Having built projects across different domains, I've come to understand that frameworks and "stacks" are different coats with similar underlying problems. Purely talking about userland apps here; I can only humbly admire people that work on low level systems or specialized software!
+I own and ensure the success of projects end to end, which has typically involved defining scope, setting the technical plan, iterating with customers or other teams, and leading execution with 2-3 other engineers.
 
-I believe in leading with empathy and understanding the user problem (spending time with the user on your software can be a humbling or enlightening experience). The creativity that programming enables is why I love programming! Sometimes the best path forward can be reductive, or a non-tech solution; that's okay because at the end of the day, the technology is meant to solve a human problem.
+I believe in deep work and understanding what happens under the hood. I've worked with enough technologies and across different domains to start seeing the same underlying patterns and problems crop up, both in people and tech. Purely talking about userland apps here; I can only humbly admire people that work on low level systems or specialized software!
+
+I believe in leading with empathy and understanding the user problem (spending time with the user on your software can be a humbling or enlightening experience). The creativity that programming enables you to express is why I love it. Sometimes the best path forward can be reductive or non-tech; that's okay because at the end of the day, technology is meant to solve a human problem.
 
 If you have an opportunity you think I'd be a good fit for, please reach out at my first name, my middle initial, and my last name at google's mail service. (My middle initial is 's')
 
-[GitHub](https://github.com/PeterSHua?tab=repositories) | [LinkedIn](https://www.linkedin.com/in/petershua/) | [Resume](assets/Peter_Hua_Resume.pdf)
+[Resume](assets/Peter_Hua_Resume.pdf) | [LinkedIn](https://www.linkedin.com/in/petershua/) | [GitHub](https://github.com/PeterSHua?tab=repositories)
 
 ## I'm currently hacking on:
 
 - [ ] Programming toy versions of popular technologies: [codecrafters.io](https://codecrafters.io)
+- [ ] Reading one paper every week: [database papers](https://github.com/rxin/db-readings)
 - [x] A badminton organization app. Deployed on Heroku (rip) with about 50 users. [badbud.net](https://github.com/PeterSHua/bad-bud)
-- [x] A framework for spinning up web backends: [tinker-base.github.io](https://tinker-base.github.io/). I spent 2 years studying web development through mastery based learning at [Launch School](https://public.launchschool.com/mastery). I feel that traditional educational systems are set up in a way that discourages real learning, and the joy of it!
-- [x] Theme park show control software and hardware. This falls under "theatre technology", stitching together a dizzying array of technologies to deliver a seamless show experience. One day could be spent hacking on regex matching strings over UDP in a hard hat and a bucket for a chair. The next could be with the show director figuring out timings for a moving piano in a costumed gorilla's dance performance. [Video](https://www.youtube.com/watch?v=FyFWBB7F-kc)
+- [x] A framework for spinning up web backends: [tinker-base.github.io](https://tinker-base.github.io/)
+- [x] Theme park software and hardware. This falls under "theatre technology", stitching together a dizzying array of technologies to deliver a seamless show experience. [Video](https://www.youtube.com/watch?v=FyFWBB7F-kc)
 
 ## Websites I love, and admire
 
